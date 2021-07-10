@@ -1,3 +1,3 @@
 # multi-docker
 
-Multi-container docker example deployed in Elasticbeanstalk
+Multi-container docker example deployed on Elasticbeanstalk
